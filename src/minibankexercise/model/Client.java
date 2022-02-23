@@ -1,4 +1,4 @@
-package solution.minibankexercise.model;
+package minibankexercise.model;
 
 public class Client {
 	

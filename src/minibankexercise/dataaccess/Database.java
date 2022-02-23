@@ -1,4 +1,4 @@
-package solution.minibankexercise.dataaccess;
+package minibankexercise.dataaccess;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

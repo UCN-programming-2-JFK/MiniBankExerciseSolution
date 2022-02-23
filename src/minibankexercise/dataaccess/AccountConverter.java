@@ -1,15 +1,16 @@
-package solution.minibankexercise.dataaccess;
+package minibankexercise.dataaccess;
 
 import java.sql.ResultSet;
 import java.util.*;
 
-import solution.minibankexercise.model.Account;
+import minibankexercise.model.Account;
 
 // ACCOUNT TABLE FORMAT
 // accNo		int			NOT NULL,      
 // balance		float		NOT NULL,  
 // inRate		float		NOT NULL,   public class AccountConverter {
 // clientNo	char(10)		NOT NULL,	private AccountConverter() {}
+
 public class AccountConverter {
 
 	private AccountConverter() {}

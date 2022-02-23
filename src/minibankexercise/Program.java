@@ -1,10 +1,10 @@
-package solution.minibankexercise;
+package minibankexercise;
 
 import java.sql.*;
 import java.util.List;
 
-import solution.minibankexercise.dataaccess.*;
-import solution.minibankexercise.model.*;
+import minibankexercise.dataaccess.*;
+import minibankexercise.model.*;
 
 public class Program {
 

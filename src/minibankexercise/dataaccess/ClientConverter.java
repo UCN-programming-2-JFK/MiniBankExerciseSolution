@@ -1,9 +1,9 @@
-package solution.minibankexercise.dataaccess;
+package minibankexercise.dataaccess;
 
 import java.sql.ResultSet;
 import java.util.*;
 
-import solution.minibankexercise.model.Client;
+import minibankexercise.model.Client;
 
 // CLIENT TABLE FORMAT
 // cpr 		char(10)	NOT NULL,
